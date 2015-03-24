@@ -1,3 +1,11 @@
+# NOTE
+
+I copied this out of Google Code to study it, because Google Code is shutting down. The 
+original author appears to be on github as well, if they want to get in touch with me, I'm
+happy to transfer this repo to them (though I suspect they can just re-import w/o issue).
+
+-------
+
 This library is a C++ template library and, as such, there is no
 library to build and install.  Copy the .h files and use them!
 
